@@ -1,0 +1,31 @@
+C:\Users\Taida\OneDrive\Desktop\DA[TinHoc]2023\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+C:\Users\Taida\OneDrive\Desktop\DA[TinHoc]2023\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+C:\Users\Taida\OneDrive\Desktop\DA[TinHoc]2023\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+C:\Users\Taida\OneDrive\Desktop\DA[TinHoc]2023\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csprojAssemblyReference.cache
+C:\Users\Taida\OneDrive\Desktop\DA[TinHoc]2023\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+C:\Users\Taida\OneDrive\Desktop\DA[TinHoc]2023\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+C:\Users\Taida\OneDrive\Desktop\DA[TinHoc]2023\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+C:\Users\Taida\OneDrive\Desktop\DA[TinHoc]2023\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+C:\Users\Taida\OneDrive\Desktop\DA[TinHoc]2023\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+C:\Users\Taida\OneDrive\Desktop\DA[TinHoc]2023\QuanLyBanHang\QuanLyBanHang\bin\Debug\Guna.UI2.dll
+C:\Users\Taida\OneDrive\Desktop\DA[TinHoc]2023\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmLogin.resources
+C:\Users\Taida\OneDrive\Desktop\DA[TinHoc]2023\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmProduct.resources
+C:\Users\Taida\OneDrive\Desktop\DA[TinHoc]2023\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmRegister.resources
+C:\Users\Taida\OneDrive\Desktop\DA[TinHoc]2023\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CopyComplete
+C:\Users\Taida\OneDrive\Desktop\DA[TinHoc]2023\QuanLyBanHang\QuanLyBanHang\bin\Debug\Database1.mdf
+C:\Users\Taida\OneDrive\Desktop\DA[TinHoc]2023\QuanLyBanHang\QuanLyBanHang\bin\Debug\Database1_log.ldf
+C:\Users\Taida\OneDrive\Desktop\DA[TinHoc]2023\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.view.frmFogort.resources
+C:\Users\Taida\OneDrive\Desktop\DA[TinHoc]2023\QuanLyBanHang - Copy\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+C:\Users\Taida\OneDrive\Desktop\DA[TinHoc]2023\QuanLyBanHang - Copy\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+C:\Users\Taida\OneDrive\Desktop\DA[TinHoc]2023\QuanLyBanHang - Copy\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+C:\Users\Taida\OneDrive\Desktop\DA[TinHoc]2023\QuanLyBanHang - Copy\QuanLyBanHang\bin\Debug\Guna.UI2.dll
+C:\Users\Taida\OneDrive\Desktop\DA[TinHoc]2023\QuanLyBanHang - Copy\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmLogin.resources
+C:\Users\Taida\OneDrive\Desktop\DA[TinHoc]2023\QuanLyBanHang - Copy\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmProduct.resources
+C:\Users\Taida\OneDrive\Desktop\DA[TinHoc]2023\QuanLyBanHang - Copy\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+C:\Users\Taida\OneDrive\Desktop\DA[TinHoc]2023\QuanLyBanHang - Copy\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmRegister.resources
+C:\Users\Taida\OneDrive\Desktop\DA[TinHoc]2023\QuanLyBanHang - Copy\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+C:\Users\Taida\OneDrive\Desktop\DA[TinHoc]2023\QuanLyBanHang - Copy\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+C:\Users\Taida\OneDrive\Desktop\DA[TinHoc]2023\QuanLyBanHang - Copy\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CopyComplete
+C:\Users\Taida\OneDrive\Desktop\DA[TinHoc]2023\QuanLyBanHang - Copy\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+C:\Users\Taida\OneDrive\Desktop\DA[TinHoc]2023\QuanLyBanHang - Copy\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+C:\Users\Taida\OneDrive\Desktop\DA[TinHoc]2023\QuanLyBanHang - Copy\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.AssemblyReference.cache

@@ -1,0 +1,6 @@
+1	táo newzealand	Trái cây	100	30	50000	60000		
+2	rau thơm	Rau củ	20	12	5000	7000		
+3	bò kobe	Thịt 	100	5	90000	100000		
+4	hoa hồng	Hoa	10	2	3000	5000		
+5	gia vị	Khác	10	5	60	100		
+
